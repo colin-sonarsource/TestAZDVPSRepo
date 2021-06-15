@@ -17,7 +17,7 @@ steps:
   displayName: 'Run a one-line script'
 - task: SonarQubePrepare@4
   inputs:
-    SonarQube: 'Ngork89jun15'
+    SonarQube: 'Azure89jun15'
     scannerMode: 'CLI'
     configMode: 'manual'
     cliProjectKey: 'azdvps'
